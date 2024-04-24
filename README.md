@@ -1,16 +1,7 @@
-# kost_finder
+# kost finder
+Aplikasi mobile untuk memudahkan pencarian kost yang ada disekitar
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Kelompok
+1. Rian Vernendy 19221176
+2. Charles Andrew Carneghe 19221264
+3. Ikayani Rachel 19221420
